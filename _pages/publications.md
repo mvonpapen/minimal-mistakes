@@ -20,5 +20,3 @@ von Papen, M., & Saur, J. (2015). Forward modeling of reduced power spectra from
 von Papen, M., Saur, J., & Alexandrova, O. (2014). Turbulent magnetic field fluctuations in Saturn’s magnetosphere. Journal of Geophysical Research: Space Physics, 119(4), 2797–2818. https://doi.org/10.1002/2013JA019542
 
 von Papen, M., Tezkan, B., & Israil, M. (2013). Characterization of an aquifer in Roorkee, India using the spatially constrained inversion of in-loop TEM data. Near Surface Geophysics, 11, 85–94. https://doi.org/10.3997/1873-0604.2012011
-
-Tezkan, B., von Papen, M., & Israil, M. (2011). Aquifer contamination at Roorkee/India studied by spatially constrained inversion of TEM inloop data. In Near Surface 2011 - 17th EAGE European Meeting of Environmental and Engineering Geophysics. Leicester. https://doi.org/10.3997/2214-4609.20144433
