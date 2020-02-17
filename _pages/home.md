@@ -10,13 +10,13 @@ Since 2019 I work as a data science consultant in the field of Life Sciences at 
 
 My academical background lies in Geophysics and Computational Neuroscience. As a Postdoc at the Institute of Neuroscience and Medicine (INM-6, IAS-6, INM-10) at the Juelich Research Centre I worked on the dynamical correlation structure of massively parallel spike trains and the validation of spiking neuronal networks. From my days working in the field of Clinical Neuroscience at Cologne and Düsseldorf, I am interested in causal inference using non-parametric Granger causality and transfer entropy. And, last but not least, my PhD topic plasma turbulence, namely Saturn's magnetospheric plasma dynamics and turbulent heating as well as critical balance in the solar wind, is still on my radar.
 
-
 # CV
 
 ## About Me
-I am an expert in statistical modelling and in the correlational and causal analysis of time series and point processes. I have gained experience in various scientific fields and have worked on structured and unstructured data in the fields of geophysics, space physics, neuroscience and bioinformatics. As former scientific coordinator and as data science consultant, I am skilled in the communication with experts and decision makers of different fields and in the translation of real-world problems into quantitative models.
 
-## Professional Experience
+I am an expert in statistical modelling and in the correlational and causal analysis of time series and point processes. I have gained experience in various scientific fields and have worked on structured and unstructured data in the fields of geophysics, space physics, neuroscience and bioinformatics. As former scientific coordinator and as data science consultant, I am skilled in the communication with experts and decision makers of different fields and in the translation of real-world problems into quantitative models. Since 2019 I work as Data Science Consultant for Comma Soft in Bonn, Germany.
+
+<!-- ## Professional Experience
 
 {% capture notice-text %}
 Data Science consulting for analytics and IT-infrastructure of academic and industrial single-cell genomics research and represent the [FASTGenomics single-cell analytics platform](https://www.fastgenomics.org) in multiple international networks and coordinate our participation in large academic projects and consortia.
@@ -35,7 +35,7 @@ Data Science consulting for analytics and IT-infrastructure of academic and indu
   <h1>Data Science in single-cell analytics (since 2019)</h1>
   <h2>Data Science Consultant at Comma Soft AG, Bonn, Germany</h2>
   {{ notice-text | markdownify }}
-</div>
+</div> -->
 
 {% capture notice-text %}
 Research assistant and scientific coordinator in the Human Brain Project, co-developed Python package [NetworkUnit](https://github.com/INM-6/NetworkUnit) for statistical validation of spiking neuronal network models and developed an estimator of active motor cortical states based on dynamic functional connectivity of massively parallel spike trains.
@@ -44,7 +44,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
 
 - Dabrowska, Voges, von Papen et al. \textbf{On the complexity of resting state spiking activity in monkey motor cortex}, to be submitted
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
-{% endcapture %}
+  {% endcapture %}
 
 <div class="notice--info">
   <h1>Validation and modelling of cortical activity (2017-2018)</h1>
@@ -52,8 +52,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
   {{ notice-text | markdownify }}
 </div>
 
-
-<!-- 
+<!--
 \section{Causal inference in electrophysiology}
 
 \begin{twenty} % Environment for a list with descriptions
