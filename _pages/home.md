@@ -6,7 +6,7 @@ title: About
 toc: true
 ---
 
-Since 2019 I work as a data science consultant in the field of Life Sciences at Comma Soft AG in Bonn, Germany. Here, we are invested in research infrastructure in general and single-cell genomics in particular. Feel free to check out our analytics platform [FASTGenomics](https://www.fastgenomics.org), where we provide cloud-based data management and analytics for the single-cell community.
+Since 2019 I work as a data science consultant in the field of Life Sciences, where we I am invested in providing research infrastructure and analytics for single-cell genomics. I am part of the team that develops the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org) that provides cloud-based data management and analytics for the single-cell community.
 
 My academical background lies in Geophysics and Computational Neuroscience. As a Postdoc at the Institute of Neuroscience and Medicine (INM-6, IAS-6, INM-10) at the Juelich Research Centre I worked on the dynamical correlation structure of massively parallel spike trains and the validation of spiking neuronal networks. From my days working in the field of Clinical Neuroscience at Cologne and Düsseldorf, I am interested in causal inference using non-parametric Granger causality and transfer entropy. And, last but not least, my PhD topic plasma turbulence, namely Saturn's magnetospheric plasma dynamics and turbulent heating as well as critical balance in the solar wind, is still on my radar.
 
@@ -14,12 +14,12 @@ My academical background lies in Geophysics and Computational Neuroscience. As a
 
 ## About Me
 
-I am an expert in statistical modelling and in the correlational and causal analysis of time series and point processes. I have gained experience in various scientific fields and have worked on structured and unstructured data in the fields of geophysics, space physics, neuroscience and bioinformatics. As former scientific coordinator and as data science consultant, I am skilled in the communication with experts and decision makers of different fields and in the translation of real-world problems into quantitative models. Since 2019 I work as Data Science Consultant for Comma Soft in Bonn, Germany.
+I am an expert in statistical analysis, modelling and inference of coupling and causality in complex systems. I did my PhD in Space Physics at the University of Cologne with application in plasma turbulence and then moved to the field of Neuroscience, where I focused on dynamical resting state networks in the brain. As a scientific coordinator and data science consultant, I am skilled in the communication with experts and decision makers of different fields and in the translation of real-world problems into quantitative models. Since 2019 I work as data science consultant for Comma Soft in Bonn, Germany.
 
 <!-- ## Professional Experience
 
 {% capture notice-text %}
-Data Science consulting for analytics and IT-infrastructure of academic and industrial single-cell genomics research and represent the [FASTGenomics single-cell analytics platform](https://www.fastgenomics.org) in multiple international networks and coordinate our participation in large academic projects and consortia.
+Data Science consultant for analytics and IT-infrastructure of academic and industrial single-cell genomics research, co-developer of the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org), scientific coordination in multiple international networks and EU-wide academic projects.
 
 **Tasks**
 
