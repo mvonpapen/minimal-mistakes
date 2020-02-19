@@ -10,7 +10,7 @@ toc: true
 
 I am an expert in statistical analysis, modelling and inference of coupling and causality in complex systems. I did my PhD in Space Physics at the University of Cologne with application in plasma turbulence of planetary magnetospheres. I then moved to the field of Neuroscience, where I worked on Deep Brain Stimulation data in Parkinson's disease and dynamical resting state networks derived from M/EEG and massively parallel spike trains. As a scientific coordinator and data science consultant I am skilled in project management and in the translation of real-world problems into quantitative models.
 
-Apart from my work, I enjoy to spend time with my wife and my two boys. Occasionally I play the saxophone or try to figure out new projects that typically involve learning new (coding) skills or methods. 
+Apart from my work, I enjoy spending time with my wife and my two boys. Occasionally I play the saxophone or try to figure out new projects that typically involve learning new (coding) skills or methods while listening to Bob Dylan. 
 
 # CV
 <!-- COMMA -->
@@ -35,7 +35,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
   {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
   <h1>Validation and modelling of cortical activity (2017-2018)</h1>
   <h2>Postdoc in Computational Neuroscience at Research Centre Jülich, Jülich, Germany</h2>
   {{ notice-text | markdownify }}
@@ -51,7 +51,7 @@ Developed wavelet-based methods for phase-dependent reconstruction of coupled ti
 - Weber, Florin, von Papen and Timmermann. [The influence of filtering and downsampling on the estimation of transfer entropy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188210), PLOS ONE, 2017
   {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--info">
   <h1>Causal inference in electrophysiology (2014-2017)</h1>
   <h2>Postdoc in Clinical Neuroscience at University Hospital Cologne \& Heinrich-Heine University Düsseldorf, Germany</h2>
   {{ notice-text | markdownify }}
@@ -67,7 +67,7 @@ First to show that Saturn's magnetosphere is in a turbulent state using wavelet 
 - von Papen et al. [Turbulent magnetic field fluctuations in Saturn's magnetosphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013JA019542), JGR:Space Physics, 2014
   {% endcapture %}
 
-<div class="notice--danger">
+<div class="notice--success">
   <h1>Turbulence in Saturn's magnetosphere (2011-2014)</h1>
   <h2>PhD in Space Physics at University of Cologne, Germany</h2>
   {{ notice-text | markdownify }}
