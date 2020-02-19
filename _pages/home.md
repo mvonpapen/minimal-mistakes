@@ -6,8 +6,6 @@ title: About
 toc: true
 ---
 
-# About Me
-
 I am an expert in statistical analysis, modelling and inference of coupling and causality in complex systems. I did my PhD in Space Physics at the University of Cologne with application in plasma turbulence of planetary magnetospheres. I then moved to the field of Neuroscience, where I worked on Deep Brain Stimulation data in Parkinson's disease and dynamical resting state networks derived from M/EEG and massively parallel spike trains. As a scientific coordinator and data science consultant I am skilled in project management and in the translation of real-world problems into quantitative models.
 
 Apart from my work, I enjoy spending time with my wife and my two boys. Occasionally I play the saxophone or try to figure out new projects that typically involve learning new (coding) skills or methods while listening to Bob Dylan. 
