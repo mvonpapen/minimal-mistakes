@@ -51,7 +51,7 @@ Developed wavelet-based methods for phase-dependent reconstruction of coupled ti
 
 <div class="notice--info">
   <h1>Causal inference in electrophysiology (2014-2017)</h1>
-  <h2>Postdoc in Clinical Neuroscience at University Hospital Cologne \& Heinrich-Heine University Düsseldorf, Germany</h2>
+  <h2>Postdoc in Clinical Neuroscience at University Hospital Cologne & Heinrich-Heine University Düsseldorf, Germany</h2>
   {{ notice-text | markdownify }}
 </div>
 
@@ -60,8 +60,8 @@ Developed wavelet-based methods for phase-dependent reconstruction of coupled ti
 First to show that Saturn's magnetosphere is in a turbulent state using wavelet analysis of magnetic field data. Detected temporal and spatial patterns in nine years of data and developed a parametric model to explain observed electron temperatures.
 
 **Publications:**
-- von Papen \& Saur. [Longitudinal and local time asymmetries of magnetospheric turbulence in Saturn's plasma sheet](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA022427), JGR:Space Physics, 2016
-- von Papen \& Saur. [Forward modeling of reduced power spectra from three-dimensional k-space](https://iopscience.iop.org/article/10.1088/0004-637X/806/1/116), Astrophysical Journal, 2015
+- von Papen & Saur. [Longitudinal and local time asymmetries of magnetospheric turbulence in Saturn's plasma sheet](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA022427), JGR:Space Physics, 2016
+- von Papen & Saur. [Forward modeling of reduced power spectra from three-dimensional k-space](https://iopscience.iop.org/article/10.1088/0004-637X/806/1/116), Astrophysical Journal, 2015
 - von Papen et al. [Turbulent magnetic field fluctuations in Saturn's magnetosphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013JA019542), JGR:Space Physics, 2014
   {% endcapture %}
 
