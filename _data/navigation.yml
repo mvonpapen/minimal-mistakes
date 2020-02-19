@@ -8,7 +8,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
   - title: "Show on github"
     url: https://github.com/mvonpapen/mvonpapen.github.io
