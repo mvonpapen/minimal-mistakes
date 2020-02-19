@@ -10,22 +10,12 @@ toc: true
 
 I am an expert in statistical analysis, modelling and inference of coupling and causality in complex systems. I did my PhD in Space Physics at the University of Cologne with application in plasma turbulence of planetary magnetospheres. I then moved to the field of Neuroscience, where I worked on Deep Brain Stimulation data in Parkinson's disease and dynamical resting state networks derived from M/EEG and massively parallel spike trains. As a scientific coordinator and data science consultant I am skilled in project management and in the translation of real-world problems into quantitative models.
 
-Since 2019 I work as data science consultant for Comma Soft in Bonn, Germany, with a focus on research infrastructure and analytics for single-cell genomics. I am part of the team behind the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org) that provides cloud-based data management and analytics for the single-cell community.
-
 Apart from my work, I enjoy to spend time with my wife and my two boys. Occasionally I play the saxophone or try to figure out new projects that typically involve learning new (coding) skills or methods. 
 
-<!-- ## Professional Experience
-
+# CV
+<!-- COMMA -->
 {% capture notice-text %}
-Data Science consultant for analytics and IT-infrastructure of academic and industrial single-cell genomics research, co-developer of the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org), scientific coordination in multiple international networks and EU-wide academic projects.
-
-**Tasks**
-
-- Coordination of academic projects
-- Agile software development of the online platform's front- and backend
-- Implementation and adaptation of state-of-the-art analysis algorithms
-- User management, marketing and communication campaign
-- Coordination of FASTGenomics hackathons organized by leading academic working groups
+Since 2019 I work as data science consultant in the Life Science team at Comma Soft in Bonn, Germany, with a focus on single-cell genomics in the industrial and academic sector. I am part of the team behind the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org) that provides cloud-based data management and analytical software environments for the single-cell community.
 {% endcapture %}
 
 
@@ -33,9 +23,8 @@ Data Science consultant for analytics and IT-infrastructure of academic and indu
   <h1>Data Science in single-cell analytics (since 2019)</h1>
   <h2>Data Science Consultant at Comma Soft AG, Bonn, Germany</h2>
   {{ notice-text | markdownify }}
-</div> -->
+</div>
 
-# CV
 <!-- JÜLICH -->
 {% capture notice-text %}
 Research assistant and scientific coordinator in the Human Brain Project, co-developed Python package [NetworkUnit](https://github.com/INM-6/NetworkUnit) for statistical validation of spiking neuronal network models and developed an estimator of active motor cortical states based on dynamic functional connectivity of massively parallel spike trains.
@@ -46,7 +35,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
   {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--warning">
   <h1>Validation and modelling of cortical activity (2017-2018)</h1>
   <h2>Postdoc in Computational Neuroscience at Research Centre Jülich, Jülich, Germany</h2>
   {{ notice-text | markdownify }}
@@ -62,7 +51,7 @@ Developed wavelet-based methods for phase-dependent reconstruction of coupled ti
 - Weber, Florin, von Papen and Timmermann. [The influence of filtering and downsampling on the estimation of transfer entropy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188210), PLOS ONE, 2017
   {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--success">
   <h1>Causal inference in electrophysiology (2014-2017)</h1>
   <h2>Postdoc in Clinical Neuroscience at University Hospital Cologne \& Heinrich-Heine University Düsseldorf, Germany</h2>
   {{ notice-text | markdownify }}
@@ -78,7 +67,7 @@ First to show that Saturn's magnetosphere is in a turbulent state using wavelet 
 - von Papen et al. [Turbulent magnetic field fluctuations in Saturn's magnetosphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013JA019542), JGR:Space Physics, 2014
   {% endcapture %}
 
-<div class="notice--info">
+<div class="notice--danger">
   <h1>Turbulence in Saturn's magnetosphere (2011-2014)</h1>
   <h2>PhD in Space Physics at University of Cologne, Germany</h2>
   {{ notice-text | markdownify }}
