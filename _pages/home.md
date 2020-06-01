@@ -29,7 +29,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
 
 **Publications:**
 
-- Dabrowska, Voges, von Papen et al. *On the complexity of resting state spiking activity in monkey motor cortex*, to be submitted
+- Dabrowska, Voges, von Papen et al. [On the complexity of resting state spiking activity in monkey motor cortex](https://biorxiv.org/cgi/content/short/2020.05.28.121095v1), biorXiv, 2020
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
   {% endcapture %}
 
