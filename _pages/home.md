@@ -8,7 +8,7 @@ toc: true
 
 I am an expert in statistical analysis, modelling and inference of coupling and causality in complex systems. I did my PhD in Space Physics at the University of Cologne with application in plasma turbulence of planetary magnetospheres. I then moved to the field of Neuroscience, where I worked on Deep Brain Stimulation data in Parkinson's disease and dynamical resting state networks derived from M/EEG and massively parallel spike trains. As a scientific coordinator and data science consultant I am skilled in project management and in the translation of real-world problems into quantitative models.
 
-Apart from my work, I enjoy spending time with my wife and my two boys. Occasionally I play the saxophone or try to figure out new projects that typically involve learning new (coding) skills or methods while listening to Bob Dylan. 
+Apart from my work as Data Scientist, I am an editor for the [Scientists for Future Podcast](https://s4f-podcast.de) and try to make the climate impact of products visible using augmented reality (see [GreenScore](https://green-score.app/)). In my spare time I enjoy spending time with my wife and my two boys and occasionally play the saxophone. 
 
 # CV
 <!-- COMMA -->
@@ -29,6 +29,7 @@ Research assistant and scientific coordinator in the Human Brain Project, co-dev
 
 **Publications:**
 
+- Dahmen et al. [Long-range coordination patterns in cortex change with behavioral context](https://www.biorxiv.org/content/10.1101/2020.07.15.205013v1), biorXiv, 2020
 - Dabrowska, Voges, von Papen et al. [On the complexity of resting state spiking activity in monkey motor cortex](https://biorxiv.org/cgi/content/short/2020.05.28.121095v1), biorXiv, 2020
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
   {% endcapture %}
