@@ -13,9 +13,8 @@ Apart from my work as Data Scientist, I am an editor for the [Scientists for Fut
 # CV
 <!-- COMMA -->
 {% capture notice-text %}
-Since 2019 I work as data science consultant in the Life Science team at Comma Soft in Bonn, Germany, with a focus on single-cell genomics in the industrial and academic sector. I am part of the team behind the single-cell analytics platform [FASTGenomics](https://www.fastgenomics.org) that provides cloud-based data management and analytical software environments for the single-cell community.
+Since 2019 I work as data science consultant in the Life Science Department at Comma Soft in Bonn, Germany, with a focus on single-cell genomics in the industrial and academic sector. I am principal investigator in the HCA-Project [discovAIR](https://discovair.org) and part of the team behind the single-cell analytics and collaboration platform [FASTGenomics](https://www.fastgenomics.org) that provides cloud-based data management and analytical software environments for the single-cell community.
 {% endcapture %}
-
 
 <div class="notice--info">
   <h1>Data Science in single-cell analytics (since 2019)</h1>
@@ -28,7 +27,6 @@ Since 2019 I work as data science consultant in the Life Science team at Comma S
 Research assistant and scientific coordinator in the Human Brain Project, co-developed Python package [NetworkUnit](https://github.com/INM-6/NetworkUnit) for statistical validation of spiking neuronal network models and developed an estimator of active motor cortical states based on dynamic functional connectivity of massively parallel spike trains.
 
 **Publications:**
-
 - Dahmen et al. [Long-range coordination patterns in cortex change with behavioral context](https://www.biorxiv.org/content/10.1101/2020.07.15.205013v1), biorXiv, 2020
 - Dabrowska, Voges, von Papen et al. [On the complexity of resting state spiking activity in monkey motor cortex](https://biorxiv.org/cgi/content/short/2020.05.28.121095v1), biorXiv, 2020
 - Gutzen, von Papen et al. [Reproducible neural network simulations: statistical methods for model validation on the level of network activity data](https://www.frontiersin.org/articles/10.3389/fninf.2018.00090/full), Front.Neuroinf., 2018
